@@ -1,6 +1,6 @@
 TO RUN:
 
-	Server: From /react-backend/, run the command > set PORT=3001 && node bin/www on a CMD Terminal (not powershell) <
+	Server: From /react-backend/, run the command > set PORT=3001 && node bin/www < on a CMD Terminal (not powershell)
 
 	App: cd into /react-backend/client, run the command > npm start <
 	
